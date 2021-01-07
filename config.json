@@ -1,0 +1,37 @@
+
+
+{
+  "TOKEN": "Nzk2NjE2NzQxODExNTE5NDg4.X_ahJw.G4RdNA770s4z7MTYqD7L8mXlD7Q",
+  "YOUTUBE_API_KEY": "AIzaSyDvTFTZRS2nxPMgx4jNePXD8cPk80Cz1bY",
+
+
+  "EMOJI_ARROW": "<a:GlowArrowRight:795931634846531584> ",
+  "EMOJI_DONE": "<a:check_correct:795931868741500958> ",
+  "EMOJI_ERROR": "<a:wroung_error:795931755277189150> ",
+  "EMOJI_STARTED_PLAYING": "<a:Songging:795931340892667965> ",
+  "EMOJI_LINE":"<a:22lines:795931565968326676>",
+
+
+  "BOT_ID": "796616741811519488",
+  "BOT_OWNER_ID": "733366906383499377",
+  "SERVER_INVITE": "YOUR SERVER INVITE LINK HERE",
+
+  "PREFIX": "^",
+  "BOT_PREFIX": "^",
+  
+  "BOT_STATUS2":"type ^help for list of commands",
+  "BOT_STATUS3": "^play|^24/7|^invite",
+  
+
+
+  "BOT_PRESENCE" : "LISTENING",
+
+  "SOUNDCLOUD_CLIENT_ID": "",
+  "MAX_PLAYLIST_SIZE": 900,
+  "PRUNING": true,
+  "STAY_TIME": 30,
+  "DEFAULT_VOLUME": 100
+}
+
+
+     
